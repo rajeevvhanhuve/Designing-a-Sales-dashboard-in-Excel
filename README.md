@@ -1,1 +1,1 @@
-# Designing-a-Sales-dashboard-in-Excel
+# Designing a Sales dashboard in Excel
