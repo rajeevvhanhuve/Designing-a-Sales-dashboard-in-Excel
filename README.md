@@ -2,12 +2,10 @@
 Project : Designing a Sales dashboard in Excel
 
 
-DESCRIPTION
-
+DESCRIPTION:
 Use Excel to analyze the sales based on various product categories.
 
 Description:
-
 The dataset in file E-Commerce Dashboard dataset.xlsx contains sales data for different product categories. The following are the features in the dataset:
 
 Order ID	                                                Unique Order ID of a product
