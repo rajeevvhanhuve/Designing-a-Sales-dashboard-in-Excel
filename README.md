@@ -1,6 +1,4 @@
-# Business Analytics with Excel/Project 1
-
-### Designing a Sales dashboard in Excel
+## Designing a Sales dashboard in Excel
 
 DESCRIPTION:
 
